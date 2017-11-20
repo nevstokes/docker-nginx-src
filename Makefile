@@ -1,4 +1,4 @@
-IMAGE_NAME = nevstokes/nginx-src
+DOCKER_REPO = nevstokes/nginx-src
 
 export
 
